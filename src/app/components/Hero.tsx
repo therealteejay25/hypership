@@ -7,7 +7,7 @@ import { motion } from "framer-motion"
 
 const Hero = () => {
   return (
-    <section className="relative pt-20 flex flex-col justify-center items-center px-4 md:px-10 lg:px-20"
+    <section className="relative pt-28 flex flex-col justify-center items-center px-4 md:px-10 lg:px-20"
       style={{ minHeight: "calc(100vh - 80px)" }} // 80px = navbar height
     >
       {/* Heading */}
