@@ -1,0 +1,23 @@
+<svg width="1685" height="987" viewBox="0 0 1685 987" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="9.97631" y="10.2386" width="1665.05" height="966.523" stroke="url(#paint0_linear_19_8)"/>
+<rect width="19.9526" height="20.4772" fill="#0D0C17"/>
+<line x1="10" y1="2" x2="10" y2="18" stroke="white" stroke-width="2"/>
+<line x1="18" y1="10" x2="2" y2="10" stroke="white" stroke-width="2"/>
+<rect width="19.9526" height="20.4772" transform="translate(0 966.523)" fill="#0D0C17"/>
+<line x1="10" y1="968.523" x2="10" y2="984.523" stroke="white" stroke-width="2"/>
+<line x1="18" y1="976.523" x2="2" y2="976.523" stroke="white" stroke-width="2"/>
+<rect width="19.9526" height="20.4772" transform="translate(1665.05)" fill="#0D0C17"/>
+<line x1="1675.05" y1="2" x2="1675.05" y2="18" stroke="white" stroke-width="2"/>
+<line x1="1683.05" y1="10" x2="1667.05" y2="10" stroke="white" stroke-width="2"/>
+<rect width="19.9526" height="20.4772" transform="translate(1665.05 966.523)" fill="#0D0C17"/>
+<line x1="1675.05" y1="968.523" x2="1675.05" y2="984.523" stroke="white" stroke-width="2"/>
+<line x1="1683.05" y1="976.523" x2="1667.05" y2="976.523" stroke="white" stroke-width="2"/>
+<defs>
+<linearGradient id="paint0_linear_19_8" x1="42.9475" y1="1148.33" x2="1676.85" y2="1148.33" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2D0A5"/>
+<stop offset="0.3125" stop-color="#DEE6A5"/>
+<stop offset="0.677885" stop-color="#BBAFDC"/>
+<stop offset="1" stop-color="#D38CD2"/>
+</linearGradient>
+</defs>
+</svg>
