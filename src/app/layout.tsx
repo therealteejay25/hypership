@@ -23,6 +23,9 @@ export const metadata: Metadata = {
     default: `${siteName} — Build without limits`,
     template: `%s | ${siteName}`,
   },
+  icons: {
+    icon: "/Logo.png",
+  },
   description: siteDescription,
   metadataBase: new URL(siteUrl),
   keywords: [
