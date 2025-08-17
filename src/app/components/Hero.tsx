@@ -53,7 +53,7 @@ const Hero = () => {
           <Image src="/nextjs.svg" alt="Next Icon" width={24} height={24} />
           Next Project
         </button>
-        <button className="py-2 border-2 border-white/10 px-4 gap-2 rounded-lg bg-white/5 text-white flex items-center justify-center w-44">
+        <button className="btn-animated py-2 border-2 border-white/10 px-4 gap-2 rounded-lg bg-white/5 text-white flex items-center justify-center w-44">
           <Image src="/react.svg" alt="React Icon" width={24} height={24} />
           React Project
         </button>

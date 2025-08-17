@@ -54,10 +54,10 @@ const Navbar = () => {
               </a>
             ))}
             <div className="flex flex-col gap-3 mt-4">
-              <button className="bg-gradient-to-b from-[#B05EFA] to-[#9333EA] py-2 px-4 rounded-lg">
+              <button className="btn-animated bg-gradient-to-b from-[#B05EFA] to-[#9333EA] py-2 px-4 rounded-lg">
                 Sign Up
               </button>
-              <button className="bg-gradient-to-b from-[#32343E] to-[#1F2129] py-2 px-4 rounded-lg">
+              <button className="btn-animated bg-gradient-to-b from-[#32343E] to-[#1F2129] py-2 px-4 rounded-lg">
                 Sign In
               </button>
             </div>
