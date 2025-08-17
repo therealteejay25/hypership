@@ -3,7 +3,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='fixed flex items-center z-50 justify-between w-[97vw] mx-5 my-3 p-2 rounded-lg bg-white/3 border-2 border-white/5 min-h-8'>
+    <div className='fixed flex items-center z-50 backdrop-blur-md justify-between w-[97vw] mx-5 my-3 p-2 rounded-lg bg-white/3 border-2 border-white/5 min-h-8'>
       <Image className='' src='/logo.svg' alt="Logo" width={128} height={128} />
       
       <div className='text-sm gap-6 flex items-center'>

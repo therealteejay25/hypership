@@ -1,18 +1,30 @@
-// import React from 'react'
+import Image from 'next/image'
+import React from 'react'
 
-// const Tags = () => {
+const Tags = () => {
+  const TagData = [
+    "Mobile app landing page",
+    "Portfolio Website",
+    "Product Showcase",
+    "UI Component Library",
+    "Interactive Calculator"
+  ]
 
-//     const TagData = ["Mobile app landing page", "Portfolio Website", "Product Showcase", "UI Component Library", "Interactive Calculator"]
+  return (
+    <div className="flex flex-wrap w-xl gap-2 justify-center items-center">
+      {TagData.map((data, index) => (
+        <span
+          key={index}
+          className="relative inline-block rounded-lg p-[2px] bg-gradient-to-r from-[#F2D0A5] via-[#DEE6A5] to-[#BBAFDC] animate-gradient-x"
+        >
+          <span className="rounded-lg flex gap-2 bg-black/60 px-3 py-1 text-sm text-white">
+            {data}
+            <Image src="/ArrowUp.png" alt='Arrow Icon' width={20} height={20} />
+          </span>
+        </span>
+      ))}
+    </div>
+  )
+}
 
-//   return (
-//     <div>
-        
-//             TagData.map((data) => {
-
-//             })
-//   )
-//     </div>
-//   )
-// }
-
-// export default Tags
+export default Tags
